@@ -1,4 +1,4 @@
-#Project Description
+# Project Description
 This project is designed to process and analyze data from eclipsing binary systems, focusing on variations in eclipse timing (O-C) over time. The results are visualized through plots that display the differences between observed and calculated eclipse times for both primary and secondary eclipses.
 
 Features
