@@ -1,7 +1,7 @@
-# Project Description
+# O-C Curve Analysis for Eclipsing Binary Systems
 This project is designed to process and analyze data from eclipsing binary systems, focusing on variations in eclipse timing (O-C) over time. The results are visualized through plots that display the differences between observed and calculated eclipse times for both primary and secondary eclipses.
 
-Features
+# Features
 General Data Loading:
 
 The script loads a CSV file (descarga.csv) containing general information about multiple binary systems, identified by their KIC (Kepler Input Catalog) number.
@@ -31,7 +31,7 @@ The images are saved in PNG format, with filenames that include the system's KIC
 Execution
 To run the code, ensure you have the following files and dependencies installed:
 
-Required Files:
+# Required Files:
 
 descarga.csv: Contains the list of binary systems to be analyzed.
 Individual O-C files for each system, named in the format [KIC].00.lc.etv.csv.
